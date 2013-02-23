@@ -2,7 +2,7 @@
 
 A Windows screen saver. 
 
-This an old program many years ago which is hosted on [sourceforge](http://sourceforge.net). The code might have been lost somewhere in the wild without [sourceforge](http://sourceforge.net). So I want to say: Thank you [sourceforge](http://sourceforge.net)! 
+This is an old program many years ago which was hosted on [sourceforge](http://sourceforge.net). The code might have been lost somewhere in the wild without [sourceforge](http://sourceforge.net). So I want to say: Thank you [sourceforge](http://sourceforge.net)! 
 
 
 ### The JavaScript version
