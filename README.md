@@ -17,3 +17,8 @@ There's a javasript version of it I wrote as a demo program during the [js1k](ht
 ![whirling rain](screenshot/w1.jpg)
 ![whirling rain](screenshot/w2.jpg)
 ![whirling rain](screenshot/w3.jpg)
+
+
+### License
+
+[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
